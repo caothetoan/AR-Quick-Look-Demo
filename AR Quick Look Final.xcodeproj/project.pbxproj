@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		520EACE325456D0300B90B26 /* toy_biplane.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACE225456D0300B90B26 /* toy_biplane.usdz */; };
+		520EACEC25456D3500B90B26 /* tv_retro.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACE525456D3400B90B26 /* tv_retro.usdz */; };
+		520EACED25456D3500B90B26 /* fender_stratocaster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACE625456D3400B90B26 /* fender_stratocaster.usdz */; };
+		520EACEE25456D3500B90B26 /* toy_drummer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACE725456D3400B90B26 /* toy_drummer.usdz */; };
+		520EACEF25456D3500B90B26 /* toy_robot_vintage.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACE825456D3500B90B26 /* toy_robot_vintage.usdz */; };
+		520EACF025456D3500B90B26 /* toy_car.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACE925456D3500B90B26 /* toy_car.usdz */; };
+		520EACF125456D3500B90B26 /* drill.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACEA25456D3500B90B26 /* drill.usdz */; };
+		520EACF325457C8A00B90B26 /* pokemonAnimated.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 520EACF225457C8A00B90B26 /* pokemonAnimated.usdz */; };
 		8B068F7720F8911E007A4AB0 /* egg.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8B068F7620F8911D007A4AB0 /* egg.usdz */; };
 		8B19ECA520F88EFF00232AA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B19ECA420F88EFF00232AA8 /* AppDelegate.swift */; };
 		8B19ECA720F88EFF00232AA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B19ECA620F88EFF00232AA8 /* ViewController.swift */; };
@@ -25,7 +33,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8B068F7620F8911D007A4AB0 /* egg.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = egg.usdz; sourceTree = "<group>"; };
+		520EACE225456D0300B90B26 /* toy_biplane.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_biplane.usdz; sourceTree = "<group>"; };
+		520EACE525456D3400B90B26 /* tv_retro.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = tv_retro.usdz; sourceTree = "<group>"; };
+		520EACE625456D3400B90B26 /* fender_stratocaster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = fender_stratocaster.usdz; sourceTree = "<group>"; };
+		520EACE725456D3400B90B26 /* toy_drummer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_drummer.usdz; sourceTree = "<group>"; };
+		520EACE825456D3500B90B26 /* toy_robot_vintage.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_robot_vintage.usdz; sourceTree = "<group>"; };
+		520EACE925456D3500B90B26 /* toy_car.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_car.usdz; sourceTree = "<group>"; };
+		520EACEA25456D3500B90B26 /* drill.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = drill.usdz; sourceTree = "<group>"; };
+		520EACF225457C8A00B90B26 /* pokemonAnimated.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = pokemonAnimated.usdz; sourceTree = "<group>"; };
+		8B068F7620F8911D007A4AB0 /* egg.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = egg.usdz; sourceTree = "<group>"; };
 		8B19ECA120F88EFF00232AA8 /* AR Quick Look Final.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Quick Look Final.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B19ECA420F88EFF00232AA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B19ECA620F88EFF00232AA8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -34,14 +50,14 @@
 		8B19ECAE20F88F0B00232AA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B19ECB020F88F0C00232AA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B19ECB620F88F7400232AA8 /* LibraryCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryCollectionViewCell.swift; sourceTree = "<group>"; };
-		8B19ECB920F88F9300232AA8 /* wheelbarrow.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = wheelbarrow.usdz; sourceTree = "<group>"; };
-		8B19ECBA20F88F9300232AA8 /* wateringcan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = wateringcan.usdz; sourceTree = "<group>"; };
-		8B19ECBB20F88F9300232AA8 /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = teapot.usdz; sourceTree = "<group>"; };
-		8B19ECBC20F88F9300232AA8 /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = gramophone.usdz; sourceTree = "<group>"; };
-		8B19ECBD20F88F9300232AA8 /* cupandsaucer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = cupandsaucer.usdz; sourceTree = "<group>"; };
-		8B19ECBE20F88F9300232AA8 /* redchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = redchair.usdz; sourceTree = "<group>"; };
-		8B19ECBF20F88F9300232AA8 /* tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = tulip.usdz; sourceTree = "<group>"; };
-		8B19ECC020F88F9300232AA8 /* plantpot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = plantpot.usdz; sourceTree = "<group>"; };
+		8B19ECB920F88F9300232AA8 /* wheelbarrow.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = wheelbarrow.usdz; sourceTree = "<group>"; };
+		8B19ECBA20F88F9300232AA8 /* wateringcan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = wateringcan.usdz; sourceTree = "<group>"; };
+		8B19ECBB20F88F9300232AA8 /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = teapot.usdz; sourceTree = "<group>"; };
+		8B19ECBC20F88F9300232AA8 /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = gramophone.usdz; sourceTree = "<group>"; };
+		8B19ECBD20F88F9300232AA8 /* cupandsaucer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = cupandsaucer.usdz; sourceTree = "<group>"; };
+		8B19ECBE20F88F9300232AA8 /* redchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = redchair.usdz; sourceTree = "<group>"; };
+		8B19ECBF20F88F9300232AA8 /* tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = tulip.usdz; sourceTree = "<group>"; };
+		8B19ECC020F88F9300232AA8 /* plantpot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plantpot.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +105,14 @@
 		8B19ECB820F88F9200232AA8 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				520EACF225457C8A00B90B26 /* pokemonAnimated.usdz */,
+				520EACEA25456D3500B90B26 /* drill.usdz */,
+				520EACE625456D3400B90B26 /* fender_stratocaster.usdz */,
+				520EACE925456D3500B90B26 /* toy_car.usdz */,
+				520EACE725456D3400B90B26 /* toy_drummer.usdz */,
+				520EACE825456D3500B90B26 /* toy_robot_vintage.usdz */,
+				520EACE525456D3400B90B26 /* tv_retro.usdz */,
+				520EACE225456D0300B90B26 /* toy_biplane.usdz */,
 				8B068F7620F8911D007A4AB0 /* egg.usdz */,
 				8B19ECB920F88F9300232AA8 /* wheelbarrow.usdz */,
 				8B19ECBA20F88F9300232AA8 /* wateringcan.usdz */,
@@ -162,15 +186,23 @@
 			files = (
 				8B19ECC820F88F9300232AA8 /* plantpot.usdz in Resources */,
 				8B19ECC320F88F9300232AA8 /* teapot.usdz in Resources */,
+				520EACEF25456D3500B90B26 /* toy_robot_vintage.usdz in Resources */,
 				8B19ECC620F88F9300232AA8 /* redchair.usdz in Resources */,
+				520EACEC25456D3500B90B26 /* tv_retro.usdz in Resources */,
+				520EACF125456D3500B90B26 /* drill.usdz in Resources */,
+				520EACEE25456D3500B90B26 /* toy_drummer.usdz in Resources */,
 				8B19ECC720F88F9300232AA8 /* tulip.usdz in Resources */,
 				8B19ECAF20F88F0B00232AA8 /* LaunchScreen.storyboard in Resources */,
+				520EACE325456D0300B90B26 /* toy_biplane.usdz in Resources */,
 				8B19ECAC20F88F0B00232AA8 /* Assets.xcassets in Resources */,
 				8B19ECC520F88F9300232AA8 /* cupandsaucer.usdz in Resources */,
 				8B19ECC120F88F9300232AA8 /* wheelbarrow.usdz in Resources */,
 				8B19ECAA20F88EFF00232AA8 /* Main.storyboard in Resources */,
 				8B19ECC420F88F9300232AA8 /* gramophone.usdz in Resources */,
 				8B19ECC220F88F9300232AA8 /* wateringcan.usdz in Resources */,
+				520EACF325457C8A00B90B26 /* pokemonAnimated.usdz in Resources */,
+				520EACF025456D3500B90B26 /* toy_car.usdz in Resources */,
+				520EACED25456D3500B90B26 /* fender_stratocaster.usdz in Resources */,
 				8B068F7720F8911E007A4AB0 /* egg.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -331,13 +363,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XJYMG76226;
+				DEVELOPMENT_TEAM = RDTX3Q7LV9;
 				INFOPLIST_FILE = "AR Quick Look Final/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.AppCoda.AR-Quick-Look-Final";
+				PRODUCT_BUNDLE_IDENTIFIER = "top.vnit.AR-Quick";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -349,13 +381,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XJYMG76226;
+				DEVELOPMENT_TEAM = RDTX3Q7LV9;
 				INFOPLIST_FILE = "AR Quick Look Final/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.AppCoda.AR-Quick-Look-Final";
+				PRODUCT_BUNDLE_IDENTIFIER = "top.vnit.AR-Quick";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";

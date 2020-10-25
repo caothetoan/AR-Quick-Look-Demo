@@ -13,7 +13,7 @@ import QuickLook
 class ViewController: UIViewController, UICollectionViewDelegate, UICollectionViewDataSource, QLPreviewControllerDelegate, QLPreviewControllerDataSource {
     
     @IBOutlet var collectionView: UICollectionView!
-    let models = ["egg", "wheelbarrow", "wateringcan", "teapot", "gramophone", "cupandsaucer", "redchair", "tulip", "plantpot"]
+    let models = ["toy_robot_vintage", "pokemonAnimated", "toy_biplane", "toy_car", "toy_drummer", "egg", "wheelbarrow", "wateringcan", "teapot", "gramophone", "cupandsaucer", "redchair", "tulip", "plantpot", "fender_stratocaster", "drill"]
     
     var thumbnails = [UIImage]()
     var thumbnailIndex = 0
